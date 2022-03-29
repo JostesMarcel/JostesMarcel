@@ -6,7 +6,7 @@ Here some Stats from Me.. 👇🏼
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JostesMarcel&show_icons=true&theme=cobalt" />
 </a>
 <a href="github.com/JostesMarcel/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JostesMarcel&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JostesMarcel&layout=compact" />
 </a>
 
 
