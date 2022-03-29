@@ -1,8 +1,14 @@
 ### Hi there 👋
+<a href=""
+![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JostesMarcel&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JostesMarcel&layout=compact)](https://github.com/JostesMarcel/github-readme-stats)
 
-![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JostesMarcel&show_icons=true&theme=cobalt)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JostesMarcel&layout=compact)](https://github.com/JostesMarcel/github-readme-stats)
-
-
+<a href="https://github.com/JostesMarcel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JostesMarcel&show_icons=true&theme=cobalt" />
+</a>
+<a href="github.com/JostesMarcel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JostesMarcel&layout=compact" />
+</a>
 
 
 <!--
