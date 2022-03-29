@@ -4,6 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JostesMarcel)](https://github.com/JostesMarcel/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JostesMarcel&layout=compact)](https://github.com/JostesMarcel/github-readme-stats)
+
+
 
 
 <!--
