@@ -2,6 +2,8 @@
 
 [![Marcel´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JostesMarcel)](https://https://github.com/JostesMarcel//github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JostesMarcel&show_icons=true&theme=synthwave)
+
 
 <!--
 **JostesMarcel/JostesMarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
